@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The Wars of Religion in France 1559-1576
 
   The Huguenots, Catherine de Medici and Philip II'
